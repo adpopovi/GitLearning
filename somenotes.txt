@@ -1,0 +1,16 @@
+Git Hub
+
+drepturi pe brench-uri
+review pe cod - tool dedicat
+
+10.16.10.10 port 8080 
+
+comenzi:
+git status
+ll - ce e acolo
+cd - change dir
+mkdir - make dir
+git clone - creare repository
+git checkout-b - creare branch nou
+git checkout nume dir 
+git add nume fisier
